@@ -10,7 +10,7 @@
 Как использовать в Overleaf:
 1. Создайте пустой проект и загрузите все файлы из этого ZIP-архива.
 
-2. Откройте https://github.com/sadekovlar/misis-article-latex и загрузите файл misisarticle.cls.
+2. загрузите файл misisarticle.cls.
 
 3. Загрузите misisarticle.cls в корневую папку проекта Overleaf, рядом с article.tex.
 
