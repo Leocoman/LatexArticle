@@ -1,16 +1,20 @@
-Projeto LaTeX convertido a partir do documento Word original.
+Проект LaTeX, преобразованный из исходного документа Word.
 
-Ficheiros:
-- article.tex: conteúdo convertido para o formato LaTeX e configurado para a classe MISIS.
-- figures/: imagens extraídas do Word.
-- misisarticle.cls: deve ser obtido do repositório oficial (não incluído nesta exportação porque não consegui descarregar o ficheiro original do GitHub nesta sessão).
+Файлы:
+- article.tex: содержимое, преобразованное в формат LaTeX и настроенное для класса MISIS.
 
-Como usar no Overleaf:
-1. Crie um projeto vazio e carregue todos os ficheiros deste ZIP.
-2. Abra https://github.com/sadekovlar/misis-article-latex e descarregue o ficheiro misisarticle.cls.
-3. Carregue misisarticle.cls para a raiz do projeto Overleaf, junto de article.tex.
-4. Em Menu > Compiler, selecione XeLaTeX.
-5. Compile article.tex.
+- figures/: изображения, извлеченные из Word.
 
-Nota importante:
-Esta é uma primeira conversão automática. Verifique o posicionamento das figuras, as tabelas, as citações e as referências bibliográficas. O documento original tem elementos gráficos/tabelas cuja ordem visual no Word pode não ser totalmente recuperada pela conversão. Não foram inventados códigos de classificação (ГРНТИ/ASJC/OECD) que estavam vazios no documento.
+- misisarticle.cls: необходимо получить из официального репозитория (не включен в этот экспорт, так как я не смог загрузить оригинальный файл с GitHub в этот период).
+
+Как использовать в Overleaf:
+1. Создайте пустой проект и загрузите все файлы из этого ZIP-архива.
+
+2. Откройте https://github.com/sadekovlar/misis-article-latex и загрузите файл misisarticle.cls.
+
+3. Загрузите misisarticle.cls в корневую папку проекта Overleaf, рядом с article.tex.
+
+4. В меню > Компилятор выберите XeLaTeX.
+
+5. Скомпилируйте article.tex.
+
